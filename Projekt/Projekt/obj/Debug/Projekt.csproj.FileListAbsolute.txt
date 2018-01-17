@@ -1,0 +1,7 @@
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\AnZa.skp\Documents\Zacho-Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
